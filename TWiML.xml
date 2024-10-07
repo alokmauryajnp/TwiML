@@ -1,0 +1,5 @@
+<Response>
+    <Dial callerId="+your_twilio_number">
+        <Number>+recipient_number</Number>
+    </Dial>
+</Response>
